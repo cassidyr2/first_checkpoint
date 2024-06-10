@@ -1,0 +1,22 @@
+What is web development, and why is it essential in the context of the internet?  >>>> 
+It's tasks associated with creating, building, and maintaining websites and web applications that run online on a browser. 
+
+what does HTML stand for ?  >>>>> 
+HYPERTEXT MARKUP LANGUAGE
+
+briefly explain what CSS is used for in web development. >>>> 
+Cascading Style Sheets is a program for laying out and structuring web pages 
+
+what is JavaScript, and why is it crucial for building interactive websites? >>>>  
+a scripting language that enables you to create dynamically updating content, control multimedia, animate images, and pretty much everything else.
+provide 
+
+a brief description of what React and Node.js are commonly used for in web development. ? >>>> 
+NodeJS is a framework of JavaScript which is mainly used for working with the backend of our application or building the backend using JavaScript, whereas ReactJS is a JavaScript front-end library. It is mainly used for building the user interface or the frontend of our application.
+
+
+Why do you want to learn web development, and what do you hope to achieve by acquiring skills in HTML, CSS, JavaScript, React, and Node.js? >>>> 
+
+
+
+
